@@ -20,7 +20,7 @@ With your permission, mobifind will need to access other users through your phon
 
 #### Transactions And Payments Data
 
-Mobifind is free and easy to use for the purpose of tracking location, we will not ask for your card details or any financial payment document, if there is any update or a paid service on the application,, we will update this privacy policy.
+Mobifind is free and easy to use for the purpose of tracking location, we will not ask for your card details or any financial payment document, if there is any update or a paid service on the application,we will update this privacy policy.
 
 #### Phone Accessbility permission 
 To effectively use the appllication, Phone Accessbility will be use to run some background service on the application. 

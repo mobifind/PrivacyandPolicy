@@ -58,7 +58,7 @@ We are committed to maintaining your trust, we wont sell personal information to
 ### Within Our Corporate Organisation 
 We may share all of the information we collect with a subsidiary, or other affiliate of our corporate organisation for same purpose.
 
-### In Connection with a Sale, Merger, or Other Business Transfer
+### Sales, Merger, or Other Business Transfer
 
 In connection witha substantial corporate transaction such as sale of application, a merger,consolidation,asset sales or bankrupycy, we may share all of the information we collect 
 

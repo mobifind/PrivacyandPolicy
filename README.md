@@ -38,10 +38,10 @@ We use information you provide to improve,support,operate,customize and administ
 
 Below is a brief description on how we use your information: 
 
-### Our location Service:
+### Our location Service
 The basic purpose of the application is to get and share user location to other users on request, location information obtained are used for this purpose alone and to inform our algorithms.
 
-### No Third-Party Ads.
+### No Third-Party Ads
 
 We don’t share your data with third-parties or allow third-party banner ads on our platform, We have no intention to introduce them, but if we ever do, we will update this Privacy Policy.
 

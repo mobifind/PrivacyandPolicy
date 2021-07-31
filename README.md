@@ -43,9 +43,13 @@ The basic purpose of the application is to get and share user location to other 
 
 ### No Third-Party Ads.
 
-### To enforce our terms, conditions, and policies
+We don’t share your data with third-parties or allow third-party banner ads on our platform, We have no intention to introduce them, but if we ever do, we will update this Privacy Policy.
 
-### For any other purposes disclosed to you at the time we collect your information or pursuant to your consent
+### Terms and Conditions
+To enforce our terms, conditions, and policies
+
+### Other Information
+For any other purposes disclosed to you at the time we collect your information or pursuant to your consent
 
 ## How we share your information
 
@@ -75,10 +79,10 @@ We may update or amend the Privacy Policy and updates will be shared according t
 
 ## Contact Us
 
-Mobifind Ltd. 
-3 ohen Road,
-Okhurumi Community, Edo State,
-Nigeria. 
+Mobifind Ltd.   
+3 ohen Road,  
+Okhurumi Community, Edo State,  
+Nigeria.   
 
 
 

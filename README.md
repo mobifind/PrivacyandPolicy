@@ -1,6 +1,6 @@
 # Mobifind Pivacy Policy
 
-Last updated: June 2, 2021. We have updated our Privacy Policy. Among other clarifying changes, we have added more details about the information we collect and how it's used, including clarifications related to, for example, collection of user content information, use of data for verification, ad related choices, data sharing with third party services, and data storage/processing practices.
+Last updated: July 31, 2021. We have updated our Privacy Policy. Among other clarifying changes, we have added more details about the information we collect and how it's used, including clarifications related to, for example, collection of user content information, use of data for verification, ad related choices, data sharing with third party services, and data storage/processing practices.
 
 ## Information we Collect
 In order to effectively use the Mobifind application, we collect some information to operate and provide support as regards services we provide.
